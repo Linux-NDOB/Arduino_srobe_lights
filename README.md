@@ -1,6 +1,6 @@
 ![arduino](https://user-images.githubusercontent.com/66097352/115948620-2acf9500-a49d-11eb-9612-a31058aac269.gif)
 # Arduino_srobe_lights
-<strong>Taller Programación de Arduino en Tinkercad usando programación en bloques<strong /><br />
+Taller Programación de Arduino en Tinkercad usando programación en bloques<br />
 Implementar en la plataforma Tinkercad y que tenga como elemento de control un Arduino un programa que cumpla con las siguientes características:<br />
 • La programación debe ser en bloques <br />
 • El programa debe controlar la secuencia y el tiempo de encendido de 4 LED´S (dos rojos y dos azules).<br /> 
